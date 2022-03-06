@@ -6,7 +6,7 @@
 
 #### 백준 알고리즘 기록
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=nudeactor)](https://solved.ac/nudeactor)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nudeactor)](https://solved.ac/nudeactor)
 
 #### 성장 기록
 #### https://blog.naver.com/626ksb
