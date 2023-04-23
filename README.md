@@ -2,7 +2,9 @@
 
 <img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-00B700?style=flat-square&logo=SPRING&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Android-63AA00?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 #### 백준 알고리즘 기록
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=nudeActor)](https://solved.ac/nudeActor})
