@@ -13,7 +13,7 @@
 #### https://blog.naver.com/626ksb
 
 #### 이력
-#### https://www.notion.so/Seonbin-Kim-37eafbb80ffe42fa90a0f065c7838620?pvs=4
+#### https://fascinated-impulse-79f.notion.site/Seonbin-Kim-37eafbb80ffe42fa90a0f065c7838620?pvs=4
 
 <H3>Want To Be : Business Developer</H3>
 <p>개발팀의 성과는 비즈니스 지표에 의해서 평가받아야 한다. 이 말은 제가 개발자로서
