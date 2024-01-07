@@ -14,7 +14,7 @@
 
 #### 성장 기록
 #### https://blog.naver.com/626ksb
-### https://seonb2n.github.io/
+#### https://seonb2n.github.io/
 
 <H3>Want To Be : Business Developer</H3>
 <p>개발팀의 성과는 비즈니스 지표에 의해서 평가받아야 한다. 이 말은 제가 개발자로서
