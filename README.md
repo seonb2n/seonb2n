@@ -5,13 +5,6 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-squre&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-#### 백준 알고리즘 기록
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=nudeActor)](https://solved.ac/nudeActor})
-
-#### 리트코드 기록
-![Leetcode Stats](https://leetcard.jacoblin.cool/seonb2n)
-
-
 #### 성장 기록
 #### https://blog.naver.com/626ksb
 #### https://seonb2n.github.io/
