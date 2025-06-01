@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 #### 성장 기록
-#### https://blog.naver.com/626ksb
-#### https://seonb2n.github.io/
+#### 2024년 이후) https://seonb2n.github.io/
+#### 2024년 이전) https://blog.naver.com/626ksb
 
 <H3>Want To Be : Business Developer</H3>
 <p>개발팀의 성과는 비즈니스 지표에 의해서 평가받아야 한다. 이 말은 제가 개발자로서
